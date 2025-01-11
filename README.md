@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a data professional with 2.5+ years of experience as a Database Administrator, skilled in managing and optimizing databases to ensure data integrity, security, and high performance. I am currently transitioning to a Data Engineer role, leveraging my expertise in Python, SQL, Big Data tools (Hadoop, Spark, Hive), and cloud technologies (AWS).
-
+Data professional with 2.5+ years of experience as a Database Administrator and skilled Data Engineer. Proficient in managing and optimizing databases for data integrity, security, and high performance. Expertise in Python, SQL, Big Data tools (Hadoop, Spark, Hive), and cloud technologies (AWS). Focused on designing data pipelines and scalable architectures to deliver effective data solutions for business insights.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reynaldo-s-b70513233?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B362MiosDQzO5%2FGrIi493uQ%3D%3D) 
