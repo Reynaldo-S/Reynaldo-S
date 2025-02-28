@@ -43,6 +43,13 @@
 ![AWS EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)  
 ![AWS Redshift](https://img.shields.io/badge/Redshift-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)  
 
+### **Orchestration Tool**  
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%2300B4C4.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)  
+
+### **Operating Systems**  
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)  
+
 ---
 
 ## 📂 **Projects**
