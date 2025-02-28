@@ -21,14 +21,27 @@
 ---
 
 ## 🛠 **Tech Stack**  
+### **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-%230074D9.svg?style=for-the-badge&logo=databricks&logoColor=white)  
+
+### **Big Data Technologies**  
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)  
 ![Hadoop](https://img.shields.io/badge/Hadoop-%23F7DF1E.svg?style=for-the-badge&logo=apachehadoop&logoColor=black)  
 ![Hive](https://img.shields.io/badge/Hive-%23F5C800.svg?style=for-the-badge&logo=apachehive&logoColor=black)  
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-%232D4E77.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
+
+### **RDBMS**  
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)  
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+
+### **AWS Services**  
+![AWS S3](https://img.shields.io/badge/S3-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![AWS Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white)  
+![AWS EMR](https://img.shields.io/badge/EMR-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)  
+![AWS Glue](https://img.shields.io/badge/Glue-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)  
+![AWS Athena](https://img.shields.io/badge/Athena-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)  
+![AWS EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)  
+![AWS Redshift](https://img.shields.io/badge/Redshift-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)  
 
 ---
 
