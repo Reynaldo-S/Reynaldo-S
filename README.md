@@ -1,20 +1,73 @@
-# 💫 About Me:
-Data professional with 2.5+ years of experience as a Database Administrator and skilled Data Engineer. Proficient in managing and optimizing databases for data integrity, security, and high performance. Expertise in Python, SQL, Big Data tools (Hadoop, Spark, Hive), and cloud technologies (AWS). Focused on designing data pipelines and scalable architectures to deliver effective data solutions for business insights.
+# 🚀 **Reynaldo S** | **Data Engineer**
+**📍 Tamil Nadu, India** | **📧 renorey2409@gmail.com**  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reynaldo-s-b70513233?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B362MiosDQzO5%2FGrIi493uQ%3D%3D) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Reynaldo S&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Reynaldo S&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Reynaldo S&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Reynaldo S&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+🔹 **Data Engineer | Database Administrator**  
+🔹 **Big Data | Cloud Technologies | Scalable Data Pipelines**  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Reynaldo S&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 **About Me**  
+🔹 Data professional with **2.5+ years** of experience as a **Database Administrator** and skilled **Data Engineer**.  
+🔹 Proficient in **managing and optimizing databases** for integrity, security, and high performance.  
+🔹 Expertise in **Python, SQL, Big Data tools (Hadoop, Spark, Hive), and AWS services**.  
+🔹 Passionate about **designing scalable data pipelines** for business insights.  
+
+---
+
+## 🌐 **Connect with Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reynaldo-s-b70513233)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reynaldo-S)  
+
+---
+
+## 🛠 **Tech Stack**  
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)  
+![Hadoop](https://img.shields.io/badge/Hadoop-%23F7DF1E.svg?style=for-the-badge&logo=apachehadoop&logoColor=black)  
+![Hive](https://img.shields.io/badge/Hive-%23F5C800.svg?style=for-the-badge&logo=apachehive&logoColor=black)  
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-%232D4E77.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+
+---
+
+## 📂 **Projects**
+🚀 **[Enhanced ETL Workflow](https://github.com/Reynaldo-S/your-project-repo-link)**  
+🔹 **Technologies:** Python, AWS S3, AWS RDS (MySQL), Pandas  
+🔹 **Summary:** Automated ETL pipeline for efficient data extraction, transformation, and loading  
+🔹 **Impact:** Reduced data processing time by **30%** and improved **data accuracy**  
+
+🚀 **[Dmart Sales Analysis Using PySpark](https://github.com/Reynaldo-S/your-project-repo-link)**  
+🔹 **Technologies:** PySpark, Python  
+🔹 **Summary:** High-performance PySpark environment for analyzing large sales datasets  
+🔹 **Impact:** Enabled **data-driven decisions** for sales optimization  
+
+🚀 **[Social Media Hashtag Trend Analyzer](https://github.com/Reynaldo-S/your-project-repo-link)**  
+🔹 **Technologies:** Streamlit, AWS Lambda, DynamoDB, Python  
+🔹 **Summary:** Real-time app for monitoring trending hashtags  
+🔹 **Impact:** Improved **real-time data processing efficiency by 15%**  
+
+🛠 **More Projects:** [Check my repositories](https://github.com/Reynaldo-S?tab=repositories)  
+
+---
+
+## 📊 **GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reynaldo-S&show_icons=true&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reynaldo-S&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reynaldo-S&layout=compact&theme=dark)  
+
+---
+
+## 🏆 **GitHub Trophies**  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Reynaldo-S&theme=radical&margin-w=4)  
+
+---
+
+## 📈 **Profile Views**  
+![Profile Views](https://visitcount.itsvg.in/api?id=Reynaldo-S&label=Profile%20Views&color=6&icon=0)  
+
+---
+
+### 🚀 Let's Build Data Solutions Together!  
+If you're looking for a **Data Engineer** with expertise in **Big Data, Cloud, and Scalable Data Pipelines**, feel free to **connect with me**!  
