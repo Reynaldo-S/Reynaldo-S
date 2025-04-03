@@ -10,7 +10,7 @@
 ## 💫 **About Me**  
 🔹 Data professional with **2.7+ years** of experience as a **Database Administrator** and skilled **Data Engineer**.  
 🔹 Expertise in **Python, SQL, Big Data tools (Hadoop, Spark, Hive, PySpark), and Cloud (Azure & AWS)**.  
-🔹 Experienced in **PySpark optimizations** for improving query performance, memory management, and distributed computing efficiency.  
+🔹 pipelines. Skilled in Apache Spark optimizations, including **partitioning, bucketing, join strategies, and Adaptive Query Execution (AQE)** to enhance performance  
 🔹 Strong background in **building scalable ETL pipelines**, performance tuning, and data governance.  
 
 ---
